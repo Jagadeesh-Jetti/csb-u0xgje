@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://jagadeesh-jetti.github.io/csb-u0xgje/static/css/main.02412196.chunk.css",
+    "main.js": "https://jagadeesh-jetti.github.io/csb-u0xgje/static/js/main.57a6841c.chunk.js",
+    "main.js.map": "https://jagadeesh-jetti.github.io/csb-u0xgje/static/js/main.57a6841c.chunk.js.map",
+    "runtime-main.js": "https://jagadeesh-jetti.github.io/csb-u0xgje/static/js/runtime-main.74d240b7.js",
+    "runtime-main.js.map": "https://jagadeesh-jetti.github.io/csb-u0xgje/static/js/runtime-main.74d240b7.js.map",
+    "static/js/2.a6d95718.chunk.js": "https://jagadeesh-jetti.github.io/csb-u0xgje/static/js/2.a6d95718.chunk.js",
+    "static/js/2.a6d95718.chunk.js.map": "https://jagadeesh-jetti.github.io/csb-u0xgje/static/js/2.a6d95718.chunk.js.map",
+    "index.html": "https://jagadeesh-jetti.github.io/csb-u0xgje/index.html",
+    "static/css/main.02412196.chunk.css.map": "https://jagadeesh-jetti.github.io/csb-u0xgje/static/css/main.02412196.chunk.css.map",
+    "static/js/2.a6d95718.chunk.js.LICENSE.txt": "https://jagadeesh-jetti.github.io/csb-u0xgje/static/js/2.a6d95718.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74d240b7.js",
+    "static/js/2.a6d95718.chunk.js",
+    "static/css/main.02412196.chunk.css",
+    "static/js/main.57a6841c.chunk.js"
+  ]
+}
